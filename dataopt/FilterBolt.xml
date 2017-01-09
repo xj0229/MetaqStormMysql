@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FilterBolt>
+	<Parameter>
+		<MatchLogic>AND</MatchLogic>
+		<MatchType>regular::range::routine0</MatchType>
+		<MatchField>1::2::5</MatchField>
+		<FieldValue>.*(net|com|org|cn).*::100,2001::s</FieldValue>
+	</Parameter>
+</FilterBolt>

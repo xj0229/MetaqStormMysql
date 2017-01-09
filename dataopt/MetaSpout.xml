@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaSpout>
+	<Parameter>
+		<MetaRevTopic>xiejundata-test</MetaRevTopic>
+		<MetaZkConnect>192.168.1.114:2181</MetaZkConnect>
+		<MetaZkRoot>/meta</MetaZkRoot>
+		<MetaConsumerConf>xiejundata05</MetaConsumerConf>
+	</Parameter>
+</MetaSpout>
